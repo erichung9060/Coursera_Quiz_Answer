@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"556ce73b49684253844e539d01bca3a6","collectionName":"https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/quiz/s3UGw/insert-and-visual-modes/","type":"collection"}

@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c2c4990f60ef42aeb8fb59772073117c","collectionName":"https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/quiz/uK3KS/version-control/","type":"collection"}

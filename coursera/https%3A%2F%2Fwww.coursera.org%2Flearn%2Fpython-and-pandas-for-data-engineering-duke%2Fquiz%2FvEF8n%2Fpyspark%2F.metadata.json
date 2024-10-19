@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"cdc80dd492bf4ffea661c94ef2af086a","collectionName":"https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke/quiz/vEF8n/pyspark/","type":"collection"}
